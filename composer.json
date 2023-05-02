@@ -1,5 +1,5 @@
 {
-    "name": "mikemartin/mailerlite",
+    "name": "siterig/mailerlite",
     "license": "proprietary",
     "type": "statamic-addon",
     "require": {
